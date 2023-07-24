@@ -1,8 +1,15 @@
 # My Portfolio Website
 
 ![Website Preview](https://raw.githubusercontent.com/eraykarakasli/Portfolio/main/src/assets/readmepng/Screenshot_1.png?token=GHSAT0AAAAAACDMJ3JCYZCYK6525O5A6SVAZF6IMKQ)
+![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_2.png?raw=true)
+![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_3.png?raw=true)
+![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_5.png?raw=true)
+![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_6.png?raw=true)
+![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_7.png?raw=true)
 
-This is my personal portfolio website showcasing my projects, skills, and experience as a front-end developer. You can visit the live website here: [Link to Portfolio Website](https://www.example.com)
+
+
+This is my personal portfolio website showcasing my projects, skills, and experience as a front-end developer.
 
 ## Technologies Used
 
@@ -30,7 +37,7 @@ npm install
 3. Run the development server:
 npm run dev
 
-4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the website locally.
+4. Open your browser and visit [http://127.0.0.1:5173/](http://127.0.0.1:5173/) to see the website locally.
 
 ## Deployment
 
