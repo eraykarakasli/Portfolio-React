@@ -21,23 +21,14 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 ## Local Development
 
 1. Clone the repository:
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/eraykarakasli/Portfolio.git
 cd portfolio-website
-
-markdown
-Copy code
 
 2. Install the dependencies:
 npm install
 
-markdown
-Copy code
-
 3. Run the development server:
 npm run dev
-
-csharp
-Copy code
 
 4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the website locally.
 
