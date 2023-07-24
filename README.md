@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![Website Preview](screenshot.png)
+![Website Preview](url(https://raw.githubusercontent.com/eraykarakasli/Portfolio/main/src/assets/readmepng/Screenshot_1.png?token=GHSAT0AAAAAACDMJ3JCYZCYK6525O5A6SVAZF6IMKQ))
 
 This is my personal portfolio website showcasing my projects, skills, and experience as a front-end developer. You can visit the live website here: [Link to Portfolio Website](https://www.example.com)
 
