@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![Website Preview](https://raw.githubusercontent.com/eraykarakasli/Portfolio/main/src/assets/readmepng/Screenshot_1.png?token=GHSAT0AAAAAACDMJ3JCYZCYK6525O5A6SVAZF6IMKQ)
+![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_1.png?raw=true)
 ![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_2.png?raw=true)
 ![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_3.png?raw=true)
 ![Website Preview](https://github.com/eraykarakasli/Portfolio/blob/main/src/assets/readmepng/Screenshot_5.png?raw=true)
